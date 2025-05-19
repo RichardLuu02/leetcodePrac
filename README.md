@@ -1,1 +1,3 @@
 # leetcodePrac
+
+from ds import *
